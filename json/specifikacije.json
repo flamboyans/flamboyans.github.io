@@ -1,0 +1,1967 @@
+[
+	{
+		"Naziv":"Acer Predator Helios 300",
+		"Oznaka":"AcerPredatorHelios300",
+		"Display":"15.6” FHD (1920*1080), ComfyView In-plane Switching (IPS) Technology",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA GeForce® GTX 1060 6G GDDR5 ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Woofer"}
+			],
+		"NetworkCommunication1":"0/100/1000 Mbit",
+		"NetworkCommunication2":"802.11 B/G/N/AC",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"2 x USB 2.0"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C"},
+				{"InputOutputPortsSvojstva":"2 x HDMI 2.0"}
+			],
+		"Battery":"4 cell - Li-Pol Battery Pack",
+		"Size":"15.4”(W) x 10.5”(D) x 1.05”(H)",
+		"Weight":"5.05 lbs with 6-cell Battery",
+		"Keyboard":"Backlight keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"},
+				{"ExtraFeaturesSvojstva":"3D aeroblade fans"}
+			]
+	},	
+
+	{
+		"Naziv":"Acer Predator 15",
+		"Oznaka":"AcerPredator15",
+		"Display":"15.6” FHD (1920*1080), ComfyView In-plane Switching (IPS) Technology",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"250GB SSD + 1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA GeForce® GTX 1070 6G GDDR5 ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Woofer"}
+			],
+		"NetworkCommunication1":"0/100/1000 Mbit",
+		"NetworkCommunication2":"802.11 B/G/N/AC, Bluetooth 4.1",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 2.0"},
+				{"InputOutputPortsSvojstva":"4 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C"},
+				{"InputOutputPortsSvojstva":"2 x HDMI 2.0"}
+			],
+		"Battery":"8 cell 6000 mAh- Li-Pol Battery Pack",
+		"Size":"15.4”(W) x 11.8”(D) x 1.5”(H)",
+		"Weight":"5.05 lbs with 6-cell Battery",
+		"Keyboard":"Backlight keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"},
+				{"ExtraFeaturesSvojstva":"3D aeroblade fans"}
+			]
+	},
+
+	{
+		"Naziv":"Acer Predator 17",
+		"Oznaka":"AcerPredator17",
+		"Display":"17.3” FHD (1920*1080), ComfyView In-plane Switching (IPS) Technology Active Matrix TFT Color LCD",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"250GB SSD + 1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA GeForce® GTX 1070 6G GDDR5 ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Woofer"}
+			],
+		"NetworkCommunication1":"0/100/1000 Mbit",
+		"NetworkCommunication2":"802.11 B/G/N/AC, Bluetooth 4.1",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 2.0"},
+				{"InputOutputPortsSvojstva":"4 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C"},
+				{"InputOutputPortsSvojstva":"2 x HDMI 2.0"}
+			],
+		"Battery":"8 cell 6000 mAh- Li-Pol Battery Pack",
+		"Size":"16.7”(W) x 12.7”(D) x 1.6”(H)",
+		"Weight":"9.26 lb lbs with 6-cell Battery",
+		"Keyboard":"Backlight keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"3D aeroblade fans"}
+			]
+	},
+
+	{
+		"Naziv":"Acer Predator 21X",
+		"Oznaka":"AcerPredator21X",
+		"Display":"21” FHD (2560 x 1080), ComfyView In-plane Switching (IPS) Technology Active Matrix TFT Color LCD",
+		"Processor":"7th Generation Intel® Mobile Core i7-7820HK Kaby Lake Processor",
+		"Chipset":"Mobile Intel CM238 Express",
+		"StandardHardDrive":"500GB SSD + 1TB (7200RPM) HDD",
+		"GraphicsController":"2 x NVIDIA GeForce GTX 1080 in SLI mode - 16 GB GDDR5 SDRAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support NVIDIA® SLI™ Technology"}
+			],
+		"StandardMemory":"64GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"DOLBY AUDIO™ PREMIUM",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"TRUEHARMONY™"},
+				{"AudioFeaturesSvojstva":"4 x speakers"},
+				{"AudioFeaturesSvojstva":"2 x woofers"}
+			],
+		"NetworkCommunication1":"Killer Wireless-AC 1535 - M.2 Card",
+		"NetworkCommunication2":"Killer Ethernet E2500, 802.11 B/G/N/AC, Bluetooth 4.1",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB-C 3.1"},
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"4 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C"},
+				{"InputOutputPortsSvojstva":"2 x DisplayPort"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"}
+			],
+		"Battery":"8 cell 6000 mAh- Li-Ion Battery Pack",
+		"Size":"22.4”(W) x 12.4”(D) x 3.3”(H)",
+		"Weight":"19.51 lbs with 6-cell Battery",
+		"Keyboard":"Backlight keyboard RGB",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"3D aeroblade fans"}
+			]
+	},
+
+	{
+		"Naziv":"Acer Predator 17X",
+		"Oznaka":"AcerPredator17X",
+		"Display":"17.3 4K UHD (3840 x 2160), ComfyView In-plane Switching (IPS) Technology Active Matrix TFT Color LCD, G-SYNC™",
+		"Processor":"7th Generation Intel® Mobile Core i7-7820HK Kaby Lake Processor",
+		"Chipset":"Mobile Intel CM238 Express",
+		"StandardHardDrive":"250GB SSD + 1TB (7200RPM) HDD",
+		"GraphicsController":"NVIDIA GeForce GTX 1080 8GB GDDR5 SDRAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"32GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"DOLBY AUDIO™ PREMIUM",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"TRUEHARMONY™"},
+				{"AudioFeaturesSvojstva":"4 x speakers"},
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"Killer Wireless-AC 1535 - M.2 Card",
+		"NetworkCommunication2":"Killer Ethernet E2400, 802.11 B/G/N/AC, Bluetooth 4.1",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB-C 3.1"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C/Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"4 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x DisplayPort"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"}
+			],
+		"Battery":"8 cell 6000 mAh- Li-Ion Battery Pack",
+		"Size":"16.7”(W) x 12.7”(D) x 1.8”(H)",
+		"Weight":"19.51 lbs with 6-cell Battery",
+		"Keyboard":"Backlight keyboard RGB",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"3D aeroblade fans"}
+			]
+	},
+
+	{
+		"Naziv":"Asus Strix Hero GL503GE",
+		"Oznaka":"AsusStrixHeroGL503GE",
+		"Display":"15.6” FHD (1920*1080), matte, 120Hz (TN)",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz (Turbo up to 3.9GHz)",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"128GB NVMe/PCIE SSD + 1TB SSHD (8GB Cache) FireCuda(Upgradeable)",
+		"GraphicsController":"NVIDIA® GTX 1050Ti 4GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"INTEL 9560 Gigabit WIFI 2x2 802.11ac Wave 2",
+		"NetworkCommunication2":"10/100/1000 Mbps",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Headphone-out & Audio-in Combo Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ45 LAN Jack for LAN insert"},
+				{"InputOutputPortsSvojstva":"1 x HDMI"},
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-A 3.1 (Gen1)"},
+				{"InputOutputPortsSvojstva":"4 x USB Type-C 3.1 (Gen2)"}
+			],
+		"Battery":"4 cell (55WHrs) - Li-Polymer Battery Pack",
+		"Size":"15.1”(W) x 10.3”(D) x 0.7”(H)",
+		"Weight":"5.4 lbs with 4 Cell Battery",
+		"Keyboard":"RGB (4-Zone) Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"}
+			]
+	},	
+
+
+	{
+		"Naziv":"Asus Zephyrus M GM501GS",
+		"Oznaka":"AsusZephyrusMGM501GS",
+		"Display":"15.6” FHD (1920*1080), matte, 144Hz, 3ms(GtG), G-SYNC",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz (Turbo up to 3.9GHz)",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"256GB NVMe/PCIE SSD + 1TB SSHD (8GB Cache) FireCuda(Upgradeable)",
+		"GraphicsController":"NVIDIA® GTX 1070 8GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"INTEL 9560 Gigabit WIFI 2x2 802.11ac Wave 2",
+		"NetworkCommunication2":"10/100/1000 Mbps",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Headphone-out & Audio-in Combo Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ45 LAN Jack for LAN insert"},
+				{"InputOutputPortsSvojstva":"1 x HDMI"},
+				{"InputOutputPortsSvojstva":"1 x mini Display Port"},
+				{"InputOutputPortsSvojstva":"3 x USB Type-A 3.1 (Gen1)"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C 3.1 (Gen2)"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-A 2.0"}
+			],
+		"Battery":"4 cell (64WHrs) - Li-Polymer Battery Pack",
+		"Size":"15.1”(W) x 10.3”(D) x 0.9”(H)",
+		"Weight":"5.7 lbs with 4 Cell Battery",
+		"Keyboard":"RGB (4-Zone) Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"}
+			]
+	},	
+
+
+	{
+		"Naziv":"Asus Strix Scar GL703GE",
+		"Oznaka":"AsusStrixScarGL703GE",
+		"Display":"17.3” FHD (1920*1080), matte, 120Hz (TN)",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz (Turbo up to 3.9GHz)",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"128GB NVMe/PCIE SSD + 1TB SSHD (8GB Cache) FireCuda(Upgradeable)",
+		"GraphicsController":"NVIDIA® GTX 1050Ti 4GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"INTEL 9560 Gigabit WIFI 2x2 802.11ac Wave 2",
+		"NetworkCommunication2":"10/100/1000 Mbps",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Headphone-out & Audio-in Combo Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ45 LAN Jack for LAN insert"},
+				{"InputOutputPortsSvojstva":"1 x HDMI"},
+				{"InputOutputPortsSvojstva":"1 x mini Display Port"},
+				{"InputOutputPortsSvojstva":"3 x USB Type-A 3.1"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C 3.1"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-A 2.0"}
+			],
+		"Battery":"4 cell (64WHrs) - Li-Polymer Battery Pack",
+		"Size":"16.3”(W) x 11.0”(D) x 0.9”(H)",
+		"Weight":"6.7 lbs with 4 Cell Battery",
+		"Keyboard":"RGB (4-Zone) Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"}
+			]
+	},	
+	
+
+	{
+		"Naziv":"Asus Strix Scar GL703GM",
+		"Oznaka":"AsusStrixScarGL703GM",
+		"Display":"17.3” FHD (1920*1080), matte, 120Hz (TN)",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz (Turbo up to 3.9GHz)",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"256GB NVMe/PCIE SSD + 1TB SSHD (8GB Cache) FireCuda(Upgradeable)",
+		"GraphicsController":"NVIDIA® GTX 1060 6GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"INTEL 9560 Gigabit WIFI 2x2 802.11ac Wave 2",
+		"NetworkCommunication2":"10/100/1000 Mbps",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Headphone-out & Audio-in Combo Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ45 LAN Jack for LAN insert"},
+				{"InputOutputPortsSvojstva":"1 x HDMI"},
+				{"InputOutputPortsSvojstva":"1 x mini Display Port"},
+				{"InputOutputPortsSvojstva":"4 x USB Type-A 3.1"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C 3.1"}
+			],
+		"Battery":"4 cell (76WHrs) - Li-Polymer Battery Pack",
+		"Size":"16.2”(W) x 10.8”(D) x 0.9”(H)",
+		"Weight":"6.5 lbs with 4 Cell Battery",
+		"Keyboard":"RGB (4-Zone) Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"}
+			]
+	},	
+
+
+	{
+		"Naziv":"Asus G703GI",
+		"Oznaka":"AsusG703GI",
+		"Display":"17.3” FHD (1920x1080), matte, 144Hz, WV, G-SYNC",
+		"Processor":"Intel® Core™ i9-8950HK 2.9GHz (Turbo up to 4.8GHz)",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"256GB NVMe/PCIE SSD + 1TB SSHD (8GB Cache) FireCuda(Upgradeable)",
+		"GraphicsController":"NVIDIA® GTX 1080 6GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"32GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"2 x Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x woofer"}
+			],
+		"NetworkCommunication1":"INTEL 9560 Gigabit WIFI 2x2 802.11ac Wave 2",
+		"NetworkCommunication2":"10/100/1000 Mbps",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Headphone-out & Audio-in Combo Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ45 LAN Jack for LAN insert"},
+				{"InputOutputPortsSvojstva":"1 x HDMI"},
+				{"InputOutputPortsSvojstva":"1 x mini Display Port"},
+				{"InputOutputPortsSvojstva":"3 x USB Type-A 3.1 (Gen-2)"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C 3.1 (Gen-2)"}
+			],
+		"Battery":"4 cell (71WHrs) - Li-Polymer Battery Pack",
+		"Size":"16.7”(W) x 12.6”(D) x 2.0”(H)",
+		"Weight":"6.5 lbs with 4 Cell Battery",
+		"Keyboard":"ROG AURA RGB - Individual Key",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in FHD Video Camera"}
+			]
+	},	
+
+	{
+		"Naziv":"GIGABYTE AERO 15W V8-BK4",
+		"Oznaka":"GIGABYTEAERO15WV8-BK4",
+		"Display":"15.6” Thin Bezel FHD 144Hz 1920x1080 IPS anti-glare display LCD",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz-4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"500GB SSD + 1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1060 6G GDDR5 Supports NVIDIA® Optimus™ Technology",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB (16G*1) DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"Dolby® ATMOS Gaming",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x 2 Watt Speaker"},
+				{"AudioFeaturesSvojstva":"Microphone"}
+			],
+		"NetworkCommunication1":"Ethernet Port 10/100/1000Mbps",
+		"NetworkCommunication2":"802.11ac Bluetooth™ v4.2 + LE",
+		"Slots":"SD Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"(UHS-II)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 1 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x mini-DP 1.4"},
+				{"InputOutputPortsSvojstva":"HDMI 2.0 x HDCP 2.2"}
+			],
+		"Battery":"94.24Wh - Li-Ion Battery Pack",
+		"Size":"14.00”(W) x 9.8”(D) x 0.78”(H)",
+		"Weight":"4.62 lbs with 6-cell Battery",
+		"Keyboard":"Gigabyte Fusion Per Key RGB Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"}
+			]
+	},	
+
+	{
+		"Naziv":"GIGABYTE AERO 15X V8-BK4",
+		"Oznaka":"GIGABYTEAERO15XV8-BK4",
+		"Display":"15.6” Thin Bezel FHD 144Hz 1920x1080 IPS anti-glare display LCD",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz-4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"500GB NVMe SSD + 1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1070 MAX-Q GDDR5 8GB Supports NVIDIA® Optimus™ Technology",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB (16G*1) DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"Dolby® ATMOS Gaming",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x 2 Watt Speaker"},
+				{"AudioFeaturesSvojstva":"Microphone"}
+			],
+		"NetworkCommunication1":"Ethernet Port 10/100/1000Mbps",
+		"NetworkCommunication2":"802.11ac Bluetooth™ v4.2 + LE",
+		"Slots":"SD Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"(UHS-II)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 1 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x mini-DP 1.4"},
+				{"InputOutputPortsSvojstva":"HDMI 2.0 x HDCP 2.2"}
+			],
+		"Battery":"94.24Wh - Li-Ion Battery Pack",
+		"Size":"14.00”(W) x 9.8”(D) x 0.78”(H)",
+		"Weight":"4.62 lbs with 6-cell Battery",
+		"Keyboard":"Gigabyte Fusion Per Key RGB Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"}
+			]
+	},
+
+
+	{
+		"Naziv":"GIGABYTE AERO 15X V8-BK4P",
+		"Oznaka":"GIGABYTEAERO15XV8-BK4P",
+		"Display":"15.6” Thin Bezel UHD Adobe RGB 100% 3840x2160 IPS anti-glare display LCD",
+		"Processor":"Intel® Core™ i7-8750H 2.2GHz-4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"500GB NVMe SSD + 1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1070 MAX-Q GDDR5 8GB Supports NVIDIA® Optimus™ Technology",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB (16G*1) DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2666 MHz",
+		"AudioFeatures":"Dolby® ATMOS Gaming",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x 2 Watt Speaker"},
+				{"AudioFeaturesSvojstva":"Microphone"}
+			],
+		"NetworkCommunication1":"Ethernet Port 10/100/1000Mbps",
+		"NetworkCommunication2":"802.11ac Bluetooth™ v4.2 + LE",
+		"Slots":"SD Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"(UHS-II)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 1 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 (Type-A)"},
+				{"InputOutputPortsSvojstva":"1 x mini-DP 1.4"},
+				{"InputOutputPortsSvojstva":"HDMI 2.0 x HDCP 2.2"}
+			],
+		"Battery":"94.24Wh - Li-Ion Battery Pack",
+		"Size":"14.00”(W) x 9.8”(D) x 0.78”(H)",
+		"Weight":"4.62 lbs with 6-cell Battery",
+		"Keyboard":"Gigabyte Fusion Per Key RGB Keyboard",
+		"ExtraFeatures":"Finger Print Reader",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"}
+			]
+	},
+	
+	{
+		"Naziv":"MSI GP63 LEOPARD-041",
+		"Oznaka":"MSIGP63LEOPARD-041",
+		"Display":"15.6” FHD (1920*1080), 120Hz 3ms Wideview 94%NTSC Color Anti-Glare",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA GeForce® GTX 1060 6G GDDR5 ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB (16G*1) DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400 MHz",
+		"AudioFeatures":"Nahimic Sound",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x Giant Speakers"},
+				{"AudioFeaturesSvojstva":"2 x Woofers"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Intel® 4th Generation Dual Band Wireless-AC 8265 802.11ac, 2x2 Wifi + Bluetooth®",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 1 Type C"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.1 Gen 1"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 1.4"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"},
+				{"InputOutputPortsSvojstva":"2 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"6 cell (51Wh) - Li-Ion Battery Pack",
+		"Size":"15.07”(W) x 10.23”(D) x 1.16”(H)",
+		"Weight":"4.8 lbs with 6-cell Battery",
+		"Keyboard":"Steel Series Full-color backlight with Anti-Ghost key + silver lining",
+		"ExtraFeatures":"Illuminated Top cover",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in HD Video Camera"},
+				{"ExtraFeaturesSvojstva":"Finger Print Reader"}
+			]
+	},	
+	
+	{
+		"Naziv":"MSI GE63VR RAIDER-632",
+		"Oznaka":"MSIGE63VRRAIDER-632",
+		"Display":"15.6” FHD (1920*1080), 120Hz 3ms Wideview 94%NTSC Color Anti-Glare",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"128GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA GeForce® GTX 1060 6G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400 MHz",
+		"AudioFeatures":"Nahimic Sound",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x Giant Speakers"},
+				{"AudioFeaturesSvojstva":"2 x Woofers"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Intel® 4th Generation Dual Band Wireless-AC 8265 802.11ac, 2x2 Wifi + Bluetooth®",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"3 x USB 3.0"},
+				{"InputOutputPortsSvojstva":"1 x USB Type-C 3.1"},
+				{"InputOutputPortsSvojstva":"1 x 1/1(SPDIF)/ Line-in/Line-out"},
+				{"InputOutputPortsSvojstva":"1 x HDMI (supports 4K@60hz)"},
+				{"InputOutputPortsSvojstva":"1 x mDP 1.2"},
+				{"InputOutputPortsSvojstva":"1 x Microphone"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Out Jack"},
+				{"InputOutputPortsSvojstva":"2 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"6 cell (51Whr) - Smart Lithium-Ion Battery Packk",
+		"Size":"15.08”(W)x10.24”(D)x1.08”(H)",
+		"Weight":"4.85 lbs with 6 Cell Battery",
+		"Keyboard":"Steel Series Full-color backlight with Anti-Ghost key + silver lining",
+		"ExtraFeatures":"Built-in FHD type (30fps@1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GS65 STEALTH THIN-500",
+		"Oznaka":"MSIGS65StealthTHIN-500",
+		"Display":"15.6” FHD, Anti-Glare Wide View Angle 144Hz 7ms 72% NTSC 1920x1080 16:9",
+		"Processor":"Intel® Core™ i7-8750H 3.9 - 4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"128GB SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1060 6G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2133 MHz",
+		"AudioFeatures":"2 x Dynaudio Speakers 2W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1/1 SPDIF (ESS Sabre HiFi)"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Killer N1550 Combo (2*2 ac) Intel ® PTT BT 5",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"4 cell (82Whr) - Li-Polymer Battery Pack",
+		"Size":"14.08”(W) x 9.75”(D) x 0.69”(H)",
+		"Weight":"4.14 lbs with 4-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB with Anti-Ghost key (84 Key)",
+		"ExtraFeatures":"Built-in FHD type (30fps@1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},	
+
+	{
+		"Naziv":"MSI GT63 TITAN-046",
+		"Oznaka":"MSIGT63TITAN-046",
+		"Display":"15.6”FHD (1920x1080), 120Hz 3ms Wideview 94% NTSC Color Anti-Glare 16:9 G-Sync",
+		"Processor":"Intel® Core™ i7-8750H 3.9 - 4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":"256GB NVMe SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1080 8G GDDR5X ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support NVIDIA® SLI™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400 MHz",
+		"AudioFeatures":"4 x Dynaudio Speakers 2W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Subwoofer 5W"},
+				{"AudioFeaturesSvojstva":"1/1 SPDIF"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Bigfoot® Killer™ N1550 Wireless-AC LAN + Bluetooth™ 5.0",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Type C"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"8 Cells (75Wh) - Li-Ion Battery Pack",
+		"Size":"15.35”(w) x 10.47”(d) x 1.56”(h)",
+		"Weight":"4.14 lbs with 4-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB with Anti-Ghost key+ silver lining",
+		"ExtraFeatures":"Built-in FHD type (30fps@1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+	
+	{
+		"Naziv":"MSI GL73 8RD-031",
+		"Oznaka":"MSIGL738RD-031",
+		"Display":"17.3” Full HD eDP Non Reflection 72% NTSC 1920x1080 16:9",
+		"Processor":"Intel® Core™ i7-8750H 3.9 - 4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":" 128GB M.2 SATA + 1TB (5400RPM) HDD (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX GTX 1050Ti 4G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"2 x Giant™ Speakers 3W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Headset AMP + Gold Flash jacks"}
+			],
+		"NetworkCommunication1":"QCA8171 LAN",
+		"NetworkCommunication2":"Intel Wireless-AC 9462 (1*1 a/c) ",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Type C"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 1.4"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"6 cell (41Wh) Li-Ion Battery Pack",
+		"Size":"16.49”(W) x 11.29”(D) x 1.25”(H)",
+		"Weight":"5.95lbs with 6-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB with Anti-Ghost key+ silver lining",
+		"ExtraFeatures":"Built-in HD type (30fps@720p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},	
+	
+	{
+		"Naziv":"MSI GE73VR Raider-732",
+		"Oznaka":"MSIGE73VRRaider-732",
+		"Display":"17.3” FHD, Anti-Glare Wide View Angle 120Hz 3ms 94%NTSC",
+		"Processor":"Intel® Core™ i7-7700HQ 2.8 - 3.8 Ghz w/ Turbo Boost",
+		"Chipset":"Intel® HM175 Chipset",
+		"StandardHardDrive":"1TB (7200RPM) HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1060 6G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"Nahimic Sound",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x Built-in Giant® Speakers"},
+				{"AudioFeaturesSvojstva":"2 x Built-in Woofers"},
+				{"AudioFeaturesSvojstva":"S/PDIF Digital Output"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Intel® 4th Generation Dual Band Wireless-AC 8265 802.11ac, 2x2 Wifi + Bluetooth®",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"3 x USB 3.0 Ports"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 (Type-C) Port"},
+				{"InputOutputPortsSvojstva":"1 x HDMI (supports 4K@60hz)"},
+				{"InputOutputPortsSvojstva":"1 x Microphone"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Out Jack"}
+			],
+		"Battery":"6 cell (51Whr) - Smart Lithium-Ion Battery Pack",
+		"Size":"16.49”(W) x 11.22”(D) x 1.12”(H)",
+		"Weight":"6.17 lbs with 6 Cell Battery",
+		"Keyboard":"Steel Series per-Key RGB with Anti-Ghost key+ silver lining",
+		"ExtraFeatures":"Built-in HD type (30fps@720p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GP73 Leopard-014",
+		"Oznaka":"MSIGP73Leopard-014",
+		"Display":"17.3” FHD 120Hz 3ms Wideview 94% NTSC Color Anti-Glare 1920x1080 16:9",
+		"Processor":"Intel® Core™ i7-8750H 3.9 - 4.1GHz",
+		"Chipset":"Intel® HM370 Chipset",
+		"StandardHardDrive":" 256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1060 6G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"2 x Giant Speakers 3W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Headset AMP + Gold Flash jacks"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Intel® 1st Generation Intergrated Dual Band Wireless-AC 9560 802.11ac, 2x2 Wi-Fi + Bluetooth®5",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Type C"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 1"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"6 cell (51Wh) - Li-Ion Battery Pack",
+		"Size":"16.49”(W) x 11.29(D) x 1.25(H)",
+		"Weight":"5.95lbs with 6-cell Battery",
+		"Keyboard":"Steel Series Full-color backlight with Anti-Ghost key + silver lining",
+		"ExtraFeatures":"Built-in HD type (30fps@720p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+	
+	{
+		"Naziv":"MSI GS73VR Stealth Pro",
+		"Oznaka":"MSIGS73VRStealthPro",
+		"Display":"17.3” FHD (1920x1080), 120Hz 5ms Wideview 94%NTSC Color Anti-Glare",
+		"Processor":"7th Generation Intel® Mobile Core i7-7700HQ Kabylake Processor",
+		"Chipset":"Intel® HM175 Express Chipset",
+		"StandardHardDrive":" 256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce GTX 1070 8G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"4 x Built-in Speakers",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Built-in Woofer"},
+				{"AudioFeaturesSvojstva":"1/1/1 (ESS Sabre HiFi)"}
+			],
+		"NetworkCommunication1":"Bigfoot® Killer™ E2500 Gaming Network LAN",
+		"NetworkCommunication2":"Bigfoot Networks Killer™ Dual Band Wireless-AC N1535 - 802.11 + Bluetooth",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.0 Ports"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Ports"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x Microphone"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Out Jack"}
+			],
+		"Battery":"3 cell (65Whr) - Smart Lithium-Ion Battery Pack",
+		"Size":"16.21” (w) x 11.21” (d) x 0.77” (h)",
+		"Weight":"5.35 lbs with 3-cell Battery",
+		"Keyboard":"Steel Series Full-color backlight with Anti-Ghost key + silver lining",
+		"ExtraFeatures":"Built-in HD type (30fps@720p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GE73VR Raider-745",
+		"Oznaka":"MSIGE73VRRaider-745",
+		"Display":"17.3” FHD, Anti-Glare Wide View Angle 120Hz 3ms 94%NTSC 1920x1080 (16:9)",
+		"Processor":"7th Generation Intel® Mobile Core i7-7700HQ Kaby Lake Processor",
+		"Chipset":"Intel® HM175 Express Chipset",
+		"StandardHardDrive":"1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce GTX 1070 8G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB 3000MHz Max, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"Sound Blaster Cinema",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"2 x Built-in Giant® Speakers"},
+				{"AudioFeaturesSvojstva":"2 x Built-in Woofers"},
+				{"AudioFeaturesSvojstva":"S/PDIF Digital Output"}
+			],
+		"NetworkCommunication1":"Bigfoot® Killer™ E2500 Gaming Network LAN",
+		"NetworkCommunication2":"Killer N1435 Combo Wireless-AC LAN + Bluetooth™ 4.2 [M.2]",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"SD (XC/HC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"3 x USB 3.0 Ports"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 (Type-C) Port)"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mini-Display Port v1.2"},
+				{"InputOutputPortsSvojstva":"1 x Microphone"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Out Jack"}
+			],
+		"Battery":"6 Cells - Smart Lithium-Ion Battery Pack",
+		"Size":"16.49” (W) x 11.22” (D) x 1.12” (H)",
+		"Weight":"6.17 lbs with 6 Cell Battery",
+		"Keyboard":"Steel Series Full-color backlight with Anti-Ghost key + silver lining",
+		"ExtraFeatures":"Built-in FHD Type Digital Web Camera",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GT73VR Titan-427",
+		"Oznaka":"MSIGT73VRTitan-427",
+		"Display":"17.3” UHD, 4K eDP IPS-Level 3840x2160 (16:9) G-SYNC™",
+		"Processor":"7th Generation Intel® Mobile Core i7-7820HK Kaby Lake Processor",
+		"Chipset":"Mobile Intel CM238 Express",
+		"StandardHardDrive":"256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1070 (8.0GB) GDDR5 (Pascal)",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"NVIDIA® G-SYNC™ Technology"}
+			],
+		"StandardMemory":"8GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"Dynaudio Premium Sound Technology w/ THX TruStudio Pro",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Support Dolby® Digital Live"},
+				{"AudioFeaturesSvojstva":"3D Stereo Enhanced Sound System"},
+				{"AudioFeaturesSvojstva":"2 x Built-in 3W Dynaudio Speakers"},
+				{"AudioFeaturesSvojstva":"1 x Built-in 5W Woofer"},
+				{"AudioFeaturesSvojstva":"S/PDIF Digital Output"}
+			],
+		"NetworkCommunication1":"Bigfoot® Killer™ E2400 Gaming Network LAN",
+		"NetworkCommunication2":"Bigfoot® Killer™ N1435 Wireless-AC LAN + Bluetooth™ 4.1",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"( SD / SDHC / SDXC )"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x USB Thunderbolt 3 (Type-C) Port"},
+				{"InputOutputPortsSvojstva":"5 x USB 3.0 Ports"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mini-Display Port v1.2"},
+				{"InputOutputPortsSvojstva":"1 x Microphone"},
+				{"InputOutputPortsSvojstva":"1 x Line-in Jack"},
+				{"InputOutputPortsSvojstva":"1 x S/PDIF"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Out Jack"}
+			],
+		"Battery":"8 Cells - Smart Lithium-Ion Battery Pack",
+		"Size":"16.85” (w) x 12.36” (d) x 1.76” (h)",
+		"Weight":"8.59 lbs with 8-cell Battery",
+		"Keyboard":"Full Sized Chiclet Steelseries® Full-Color Backlit Keyboard with Anti-Ghost Key + Silver Lining",
+		"ExtraFeatures":"Built-in FHD Type Digital Web Camera (30fps @ 1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"},
+				{"ExtraFeaturesSvojstva":"TDE (turbo drive engine) Technology"},
+				{"ExtraFeaturesSvojstva":"Cooler Boost Technology"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GS73 STEALTH-016",
+		"Oznaka":"MSIGS73STEALTH-016",
+		"Display":"17.3” FHD, Anti-Glare Wide View Angle 120Hz 3ms 94% NTSC 1920x1080 16:9",
+		"Processor":"Intel® Core™ i7-8750H 3.9 - 4.1GHz",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1070 (8.0GB) GDDR5 (Pascal)",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"4 x Dynaudio Tech Speakers 2W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Subwoofer 3W"},
+				{"AudioFeaturesSvojstva":"3D Stereo Enhanced Sound System"},
+				{"AudioFeaturesSvojstva":"1/1 SPDIF (ESS Sabre HiFi)"}
+			],
+		"NetworkCommunication1":"Killer Gaming Network E2500 LAN",
+		"NetworkCommunication2":"Bigfoot® Killer™ N1550 Wireless-AC LAN + Bluetooth™ 5.0",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"( SD / SDHC / SDXC )"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 1"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"3 cell (51Whr) - Li-Polymer Battery Pack",
+		"Size":"16.21”(W) x 11.21”(D) x 0.77”(H)",
+		"Weight":"5.35 lbs with 3-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB with Anti-Ghost key+ silver lining",
+		"ExtraFeatures":"Built-in HD Type Digital Web Camera (30fps @ 720p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+
+	{
+		"Naziv":"MSI GT75 TITAN-057",
+		"Oznaka":"MSIGT75TITAN-057",
+		"Display":"17.3” FHD, Anti-Glare Wide View Angle 120Hz 3ms 94%NTSC 1920x1080 16:9 G-Sync",
+		"Processor":"Intel® Core™ i7-8850H 4.0 - 4.3GHz",
+		"Chipset":"Intel® CM246 Chipset",
+		"StandardHardDrive":"256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1080 8G GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB 2666 MHz, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"4 x Dynaudio Tech Speakers 3W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Subwoofer 5W"},
+				{"AudioFeaturesSvojstva":"1 x Built-in Microphone"},
+				{"AudioFeaturesSvojstva":"1/1 SPDIF (ESS Sabre HiFi)"}
+			],
+		"NetworkCommunication1":"Multi GIG AQC107 LAN",
+		"NetworkCommunication2":"Bigfoot® Killer™ N1550 Wireless-AC LAN + Bluetooth™ 5.0",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"( SD / SDHC / SDXC )"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"5 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"8 Cells (75Wh) - Li-Ion Battery Pack",
+		"Size":"16.85”(w) x 12.36”(d) x 1.22-2.28”(h)",
+		"Weight":"10.05 lbs with 8-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB Mechanical KB with Anti-Ghost key",
+		"ExtraFeatures":"Built-in FHD Type Digital Web Camera (30fps @ 1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},	
+	
+	{
+		"Naziv":"MSI GT75 TITAN-094",
+		"Oznaka":"MSIGT75TITAN-094",
+		"Display":"17.3” FHD, Anti-Glare Wide View Angle 120Hz 3ms 94%NTSC 1920x1080 16:9 G-Sync",
+		"Processor":"Intel® Core™ i9-8950HK 4.3 - 4.8GHz",
+		"Chipset":"Intel® CM246 Chipset",
+		"StandardHardDrive":"256GB SSD + 1TB 7200RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1080 8G GDDR5X",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets",
+		"AudioFeatures":"4 x Dynaudio Tech Speakers 3W",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"1 x Subwoofer 5W"},
+				{"AudioFeaturesSvojstva":"1 x Built-in Microphone"},
+				{"AudioFeaturesSvojstva":"1/1 SPDIF (ESS Sabre HiFi)"}
+			],
+		"NetworkCommunication1":"Multi GIG AQC107 LAN",
+		"NetworkCommunication2":"Bigfoot® Killer™ N1550 Wireless-AC LAN + Bluetooth™ 5.0",
+		"Slots":"3-in-1 Card Reader",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"( SD / SDHC / SDXC )"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt 3"},
+				{"InputOutputPortsSvojstva":"5 x USB 3.1 Gen 2"},
+				{"InputOutputPortsSvojstva":"1 x HDMI 2.0"},
+				{"InputOutputPortsSvojstva":"1 x mDP v1.2"}
+			],
+		"Battery":"8 Cells (75Wh) - Li-Ion Battery Pack",
+		"Size":"16.85”(w) x 12.36”(d) x 1.22-2.28”(h)",
+		"Weight":"10.05 lbs with 8-cell Battery",
+		"Keyboard":"Steel Series per-Key RGB Mechanical KB with Anti-Ghost key",
+		"ExtraFeatures":"Built-in FHD Type Digital Web Camera (30fps @ 1080p)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+	
+	{
+		"Naziv":"SAGER NP6853",
+		"Oznaka":"NP6853",
+		"Display":"15.6” Full HD (1920x1080) 120Hz 3ms, Wide View Angle, 94% NTSC Display, Matte Finished",
+		"Processor":"8th Generation Intel® Core™ i7-8750H Processor ( 2.2 GHz ), 9MB Smart Cache",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"1TB 5400RPM HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1050Ti with 4GB GDDR5 Video RAM ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"8GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two speakers"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ Cinema 5"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Two M.2 Card Slots,",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"6-in-1 Card Reader / (MMC/RSMMC/SD/Mini-SD/SDHC/SDXC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display port 1.2"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type C)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 6 cells smart Lithium-Ion battery pack 62Wh",
+		"Size":"14.88” (w) x 10.51” (d) x 1.06” (h) ",
+		"Weight":"5.51 lbs. including Battery Pack",
+		"Keyboard":"Multi languages full color illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Intel® PTT (Platform Trust Technology)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camerabr"},
+				{"ExtraFeaturesSvojstva":"FlexiChargerbr"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality ready via HDMI or miniDP from dGPU"},
+				{"ExtraFeaturesSvojstva":"Microsoft Cortana with Voice Technology"},
+				{"ExtraFeaturesSvojstva":"Windows Mixed Reality Compatible"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},
+	{
+		"Naziv":"SAGER NP7871",
+		"Oznaka":"NP7871",
+		"Display":"17.3” Full HD (1920x1080) 144Hz, Wide View Angle 72% NTSC Display, Matte Finished",
+		"Processor":"8th Generation Intel® Core™ i7-8750H Processor ( 2.2 GHz ), 9MB Smart Cache",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM HDD(Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1060 with 6GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two speakers"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ Cinema 5"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Two M.2 Card Slots,",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"6-in-1 Card Reader / (MMC/RSMMC/SD/Mini-SD/SDHC/SDXC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"2 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 / Thunderbolt™ 3 Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 2 Ports (Type A)"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.0 Ports (1 x powered USB port, AC/DC)"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Line out / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Line out / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 6 cells smart Lithium-Ion battery pack 62Wh",
+		"Size":"16.48” (w) x 11.37” (d) x 1.18” (h)",
+		"Weight":"7.06 lbs. 62WH Battery Pack",
+		"Keyboard":"Multi languages full color illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Metal top casebr",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camerabr"},
+				{"ExtraFeaturesSvojstva":"FlexiChargerbr"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality ready via HDMI or miniDP from dGPU"},
+				{"ExtraFeaturesSvojstva":"Microsoft Cortana with Voice Technology"},
+				{"ExtraFeaturesSvojstva":"Windows Mixed Reality Compatible"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"},
+				{"ExtraFeaturesSvojstva":"Intel® PTT (Platform Trust Technology)"}
+			]
+	},
+
+	{
+		"Naziv":"SAGER NP7851",
+		"Oznaka":"NP7851",
+		"Display":"15.6” Full HD (1920x1080) 144Hz 5ms, 72% NTSC, IPS Display, Matte Finished",
+		"Processor":"8th Generation Intel® Core™ i7-8750H Processor ( 2.2 GHz ), 9MB Smart Cache ",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM HDD",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1060 with 6GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® GeForce CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two speakers"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ Cinema 5"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Two M.2 Card Slots,",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"6-in-1 Card Reader / (MMC/RSMMC/SD/Mini-SD/SDHC/SDXC)"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display port 1.2"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type C)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 6 cells smart Lithium-Ion battery pack 62Wh",
+		"Size":"14.88” (w) x 10.51” (d) x 1.18” (h)",
+		"Weight":"5.51 lbs. including Battery Pack",
+		"Keyboard":"Multi languages full color illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Intel® PTT (Platform Trust Technology)",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camerabr"},
+				{"ExtraFeaturesSvojstva":"FlexiChargerbr"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality ready via HDMI or miniDP from dGPU"},
+				{"ExtraFeaturesSvojstva":"Microsoft Cortana with Voice Technology"},
+				{"ExtraFeaturesSvojstva":"Windows Mixed Reality Compatible"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock"}
+			]
+	},	
+
+	{
+		"Naziv":"SAGER NP9155",
+		"Oznaka":"NP9155",
+		"Display":"15.6” FHD (1920x1080) IPS Matte Display with G-SYNC Technology",
+		"Processor":"8th Generation Intel® Core™ i7-8700K Processor (3.70GHz Base / 4.70GHz Max), 6 Cores, 12MB Smart Cache, overclocking",
+		"Chipset":"Intel® Z370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1070 GPU with 8GB GDDR5",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"MXM3.0 Type B"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz",
+		"StandardMemorySvojstvo":"Upgradeable - 64GB 2400MHz Max",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"S/PDIF digital output"},
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two speakers and a subwoofer"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ X-FI® MB5"},
+				{"AudioFeaturesSvojstva":"ESS™ SABRE HiFi DAC for high resolution headphone audio"},
+				{"AudioFeaturesSvojstva":"External 7.1CH audio output supported by 2-in-1 Audio, microphone, Line-in and Line-out jacks"}
+			],
+		"NetworkCommunication1":"Killer DoubleShot™ Pro (Integrated Killer E2400 Gigabit Ethernet LAN)",
+		"NetworkCommunication2":"Integrated Bigfoot® Killer™ N1535 Wireless-AC LAN + Bluetooth™ 4.0 [M.2 Chip]",
+		"Slots":"Three M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"- 3rd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface. "}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"2 x Mini DisplayPort 1.3"},
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt™ 3 / USB 3.1 combo Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"3 x USB 3.0 Ports (1 x powered USB port, AC/DC)"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Headphone / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Line-in Jack"},
+				{"InputOutputPortsSvojstva":"1 x Line-out jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 8 cell Smart Lithium-Ion battery pack 82Wh",
+		"Size":"15.20” (w) x 10.32” (d) x 1.50” (h)",
+		"Weight":"7.5 LBs with Battery Pack",
+		"Keyboard":"Multi languages Full Color-LED illuminated full size keyboard with numeric pad ",
+		"ExtraFeatures":"Rubber Painting",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Illuminated Top cover"},
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality Ready"},
+				{"ExtraFeaturesSvojstva":"Finger Print Reader"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock Capability"}
+			]
+	},
+
+	{
+		"Naziv":"SAGER NP6873",
+		"Oznaka":"NP6873",
+		"Display":"17.3” IPS Full HD (1920x1080) Display, Matte Finished",
+		"Processor":"8th Generation Intel® Core™ i7-8750H Processor ( 2.2 GHz ), 9MB Smart Cache",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1050Ti with 4GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2133MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2133MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two speakers"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ Cinema 5"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Two M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display 1.3 Port"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display 1.2 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type C)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack 1 RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 6 cells smart Lithium-Ion battery pack 62Wh ",
+		"Size":"16.48” (w) x 11.37” (d) x 1.08” (h)",
+		"Weight":"6.83 lbs. including Battery Pack",
+		"Keyboard":"Multi languages full color illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Metal top case",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Microsoft Cortana with Voice Technology"},
+				{"ExtraFeaturesSvojstva":"Windows Mixed Reality Compatible"},
+				{"ExtraFeaturesSvojstva":"Intel® PTT (Platform Trust Technology)"},
+				{"ExtraFeaturesSvojstva":"Finger print"}
+			]
+	},
+
+	{
+		"Naziv":"SAGER NP8370",
+		"Oznaka":"NP8370",
+		"Display":"17.3” IPS Full HD (1920x1080) Display with G-SYNC Techology, Matte Finished",
+		"Processor":"7th Generation Intel® Mobile Core i7-7700HQ Kaby Lake Processor",
+		"Chipset":"Intel® Mobile HM175 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1060 with 6GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"},
+				{"svojstvo":"Support 4 active displays"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"S/PDIF Digital output"},
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two 2W Speakers and a 4W Subwoofer"},
+				{"AudioFeaturesSvojstva":"Sound BlasterX® Pro-Gaming 720°"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ Cinema 5"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Three M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"- 3rd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface."}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display 1.3 Port"},
+				{"InputOutputPortsSvojstva":"1 x Mini Display 1.2 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 2.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.0 Port"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type A)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type C)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 6 cells smart Lithium-Ion battery pack 62Wh ",
+		"Size":"16.48” (w) x 11.30” (d) x 0.98” (h)",
+		"Weight":"6.83 lbs. including Battery Pack",
+		"Keyboard":"Multi languages full color illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Al-alloy",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Microsoft Cortana with Voice Technology"},
+				{"ExtraFeaturesSvojstva":"Windows Mixed Reality Compatible"},
+				{"ExtraFeaturesSvojstva":"Intel® PTT (Platform Trust Technology)"},
+				{"ExtraFeaturesSvojstva":"Finger print"}
+			]
+	},
+	
+	{
+		"Naziv":"SAGER NP8375",
+		"Oznaka":"NP8375",
+		"Display":"17.3” Full HD (1920x1080) 144Hz, Wide View Angle, 72% NTSC Display with G-Sync Technology, Matte Finished",
+		"Processor":"8th Generation Intel® Core™ i7-8750H Processor ( 2.2 GHz ), 9MB Smart Cache",
+		"Chipset":"Intel® HM370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1070 with 8GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"},
+				{"svojstvo":"GPU over clocking"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 32GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400/2666 MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"S/PDIF Digital output"},
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two 2W Speakers and a 4W Subwoofer"},
+				{"AudioFeaturesSvojstva":"Sound BlasterX® Pro-Gaming 720°"},
+				{"AudioFeaturesSvojstva":"External 5.1CH audio output supported by 2-in-1 Audio, Microphone and Headphone jacks"}
+			],
+		"NetworkCommunication1":"Built-in Gigabit Ethernet LAN",
+		"NetworkCommunication2":"Intel® Dual Band Wireless-AC + Bluetooth, M.2 interface",
+		"Slots":"Three M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"- 3rd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface."}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"2 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 / Thunderbolt™ 3 Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.1 Gen 2 Ports (Type A)"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.0 Ports (1 x powered USB port, AC/DC)"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Line out / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x USB 3.1 Gen 2 Port (Type C)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Embedded 4 cells Polymer battery pack 66WH",
+		"Size":"16.48” (w) x 11.30” (d) x 0.98” (h)",
+		"Weight":"6.61 lbs. including 66WH Battery Pack",
+		"Keyboard":"RGB Per Key illuminated full size keyboard with numeric pad",
+		"ExtraFeatures":"Metal top, Palm rest, and bottom case",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"NVIDIA® G-SYNC™ Technology at dGPU mode"},
+				{"ExtraFeaturesSvojstva":"Support Microsoft Windows 10 Cortana with Voice"},
+				{"ExtraFeaturesSvojstva":"Intel® Optane™ Technology"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock Area"},
+				{"ExtraFeaturesSvojstva":"Fingerprint Reader"},
+				{"ExtraFeaturesSvojstva":"Intel® PTT (Platform Trust Technology)"}
+			]
+	},
+
+	{
+		"Naziv":"SAGER NP9175",
+		"Oznaka":"NP9175",
+		"Display":"17.3” Full HD IPS Matte Display with G-SYNC Technology (1920 x 1080)",
+		"Processor":"8th Generation Intel® Core™ i7-8700K Processor ( 6 Cores, 12MB Smart Cache, 3.70GHz Base / 4.70GHz Max )",
+		"Chipset":"Intel® Z370 Express Chipset",
+		"StandardHardDrive":"250GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce™ GTX 1070 with 8GB GDDR5 Video RAM",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x16"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"Battery Boost 2.0 Ready"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"},
+				{"svojstvo":"GPU over clocking"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400 MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"S/PDIF Digital output"},
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two Speakers and Subwoofer"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ X-FI® MB5"},
+				{"AudioFeaturesSvojstva":"ESS™ SABRE HiFi DAC for high resolution headphone audio"},
+				{"AudioFeaturesSvojstva":"External 7.1CH audio output supported by 2-in-1 Audio, microphone, Line-in and Line-out jacks"}
+			],
+		"NetworkCommunication1":"Killer DoubleShot™ Pro (Integrated Killer Gigabit Ethernet LAN)",
+		"NetworkCommunication2":"Killer Dual Band Wireless-AC 1535 + Bluetooth™ 4.0 [M.2 Chip]",
+		"Slots":"Three M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"- 3rd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface."}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"2 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"1 x Thunderbolt™ 3 / USB 3.1 Combo Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"2 x 1 x USB 3.1 Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"2 x USB 3.0 Ports (1 x powered USB port, AC/DC)"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Line out / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Line-out Jack"},
+				{"InputOutputPortsSvojstva":"1 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 8 cells Polymer battery pack (82.00Wh)",
+		"Size":"16.46” (w) x 11.63” (d) x 1.61” (h)",
+		"Weight":"8.6 LBs with GPU Card and Battery Pack",
+		"Keyboard":"Full color illuminated full size keyboard with numeric pad and anti-ghost keys ",
+		"ExtraFeatures":"Built-in 2.0M FHD Video Camera",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality Ready"},
+				{"ExtraFeaturesSvojstva":"Finger Print Reader"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock Capability"}
+			]
+	},
+
+	{
+		"Naziv":"SAGER NP9877",
+		"Oznaka":"NP9877",
+		"Display":"17.3” 4K QFHD (3840x2160) Matte Display with G-SYNC Technology",
+		"Processor":"8th Generation Intel® Core™ i7-8700K Processor (3.70GHz Base / 4.70GHz Max), 6 Cores, 12MB Smart Cache, overclocking support",
+		"Chipset":"Intel® Z370 Express Chipset",
+		"StandardHardDrive":"500GB M.2 SSD + 1TB 5400RPM Hard Drive (Upgradeable)",
+		"GraphicsController":"NVIDIA® GeForce® GTX 1080 GDDR5 (8.0GB) with Optimus™ Technology (Upgradeable) ",
+		"GraphicsControllerSvojstva":
+			[
+				{"svojstvo":"Support PCIe x8"},
+				{"svojstvo":"Microsoft® DirectX® 12 compatible"},
+				{"svojstvo":"MXM3.0 Type B"},
+				{"svojstvo":"NVIDIA® PhysX® Technology"},
+				{"svojstvo":"NVIDIA® CUDA™ Technology"},
+				{"svojstvo":"Support NVIDIA® SLI™ Technology"}
+			],
+		"StandardMemory":"16GB DDR4 2400MHz Supports Dual Channel DDR4",
+		"StandardMemorySvojstvo":"Expandable up to 64GB, depends on 8GB/16GB SODIMM module ",
+		"NumberOfSODIMMS":"Two 260 pins SODIMM sockets, support for DDR4 2400 MHz",
+		"AudioFeatures":"High Definition audio interface",
+		"AudioFeaturesSvojstva":
+			[
+				{"AudioFeaturesSvojstva":"S/PDIF Digital output"},
+				{"AudioFeaturesSvojstva":"Built-in Array Microphone"},
+				{"AudioFeaturesSvojstva":"Built-in two Speakers and Subwoofer"},
+				{"AudioFeaturesSvojstva":"Sound Blaster™ X-FI® MB5"},
+				{"AudioFeaturesSvojstva":"ESS™ SABRE HiFi DAC for high resolution headphone audio"},
+				{"AudioFeaturesSvojstva":"External 7.1CH audio output supported by 2-in-1 Audio, microphone, Line-in and Line-out jacks"}
+			],
+		"NetworkCommunication1":"Killer DoubleShot-X3™ Pro (Integrated Killer E2400 Gigabit Ethernet LAN)",
+		"NetworkCommunication2":"Integrated Bigfoot® Killer™ N1535 Wireless-AC LAN + Bluetooth™ 4.0 [M.2 Chip]",
+		"Slots":"Three M.2 Card Slots",
+		"SlotsSvojstva":
+			[
+				{"SlotsSvojstva":"- 1st for WLAN Combo M.2 2230 Card with PCIe and USB interface"},
+				{"SlotsSvojstva":"- 2nd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface"},
+				{"SlotsSvojstva":"- 3rd for SSD M.2 2280 Card with SATA / PCIe Gen3x4 interface."}
+			],	
+		"InputOutputPorts":
+			[
+				{"InputOutputPortsSvojstva":"1 x HDMI™ output Port (with HDCP)"},
+				{"InputOutputPortsSvojstva":"2 x Mini Display port 1.3"},
+				{"InputOutputPortsSvojstva":"2 x Thunderbolt™ 3 / USB 3.1 combo Ports (Type-C)"},
+				{"InputOutputPortsSvojstva":"2 x 1 x USB 3.1 Port (Type-C)"},
+				{"InputOutputPortsSvojstva":"5 x USB 3.0 Ports (1 x Powered USB port, AC/DC)"},
+				{"InputOutputPortsSvojstva":"1 x 2-in-1 Audio Jack (Line out / S/PDIF Optical output)"},
+				{"InputOutputPortsSvojstva":"1 x Headphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Microphone Jack"},
+				{"InputOutputPortsSvojstva":"1 x Line-out Jack"},
+				{"InputOutputPortsSvojstva":"1 x Line-in Jack"},
+				{"InputOutputPortsSvojstva":"2 x RJ-45 LAN (10/100/1000Mbps)"}
+			],
+		"Battery":"Removable 8 cell Smart Lithium-Ion battery pack (89.00Wh)",
+		"Size":"16.85” (w) x 12.13” (d) x 1.86” (h)",
+		"Weight":"12.13 LBs with GPU cards and Battery Pack",
+		"Keyboard":"Full color illuminated full size keyboard with numeric pad and anti-ghost keys",
+		"ExtraFeatures":"Illuminated Top cover",
+		"ExtraFeaturesSvojstva":
+			[
+				{"ExtraFeaturesSvojstva":"Built-in 2.0M FHD Video Camera"},
+				{"ExtraFeaturesSvojstva":"FlexiCharger"},
+				{"ExtraFeaturesSvojstva":"Support Windows 10 Cortana with Voice"},
+				{"ExtraFeaturesSvojstva":"Virtual Reality Ready"},
+				{"ExtraFeaturesSvojstva":"Finger Print Reader"},
+				{"ExtraFeaturesSvojstva":"Kensington® Lock Capability"}
+			]
+	}
+
+]

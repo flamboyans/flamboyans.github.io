@@ -1,0 +1,134 @@
+*{
+	box-sizing: border-box;
+    margin: 0 auto;
+	color:white;
+	border:none;
+}
+.nvidia{
+	margin:0px;
+	padding:0px;
+	background-color:black;
+}
+
+.nvidia-deo{
+	display:inline-block;
+	padding:0px;
+	margin:0px;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+
+.nvidia-tekst{
+	padding-top:0px;
+	float:left;
+	width:450px;
+	height:350px;
+	background-color:black;
+}
+
+.nvidia-slika{
+	padding-top:0px;
+	float:left;
+	width:650px;
+	height:30px;
+
+}
+
+.nvidia-slika-dimenzije{
+	width:650px;
+	height:350px;
+}
+
+.nvidia-tekst-sadrzaj{
+	font-family: 'Roboto', sans-serif;
+	padding-top:20px;
+	padding-right:10px;
+	text-align: justify;
+    text-justify: inter-word;
+	color:#eeeeee;
+}
+
+.nvidia-naslov{
+	color:#79A627;
+	
+}
+
+.odmaknut{
+	padding-top:60px;
+}
+
+p{
+	padding-top:10px;
+}
+
+.boja{
+	color:#76b900;
+}
+
+#Gtx10{
+	color: #76b900;
+    font-size: 26px;
+	padding-bottom:30px;
+}
+
+th{
+	height:50px;
+	padding-top:15px;
+}
+.naslov{
+	font-size:20px;
+	font-weight:bold;
+	text-align:left;
+}
+
+.gtx{
+	font-weight:bold;
+	font-size:20px;
+	
+}
+td{
+	height:40px;
+	border:none;
+	padding-right:20px;
+	border:none;
+}
+
+.polja{
+	width:180px;
+	border:none;
+}
+.polja1{
+	width:250px;
+	border:none;
+
+}
+
+.taster {
+    background-color: #76b900; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#nvidiaSpec{
+	display:block;
+	margin:auto;
+}
+
+.dugme{
+	display:block;
+	height:70px;
+	background-color:black;
+}
+
+.kraj{
+	margin:0 auto;
+}
+
+
+
+

@@ -1,0 +1,101 @@
+
+table{
+	background-color:white;
+	border:none;
+}
+*{
+	box-sizing: border-box;
+    margin: 0 auto;
+
+}
+.naslov{
+	font-weight: bold;
+    line-height: 1.5;
+    border-spacing: 0;
+	border-spacing: 2px;
+    border-color: grey;
+	color: rgb(195, 32, 38);
+    font-size: medium;
+}
+
+.podnaslovSpec{
+    font-size: small;
+    color: rgb(153, 153, 153);
+	line-height: 1.5;
+    border-spacing: 0;
+    border-spacing: 2px;
+
+}
+
+.sadrzaj1{
+    font-size: small;
+    color: rgb(97, 97, 97);
+	font-weight:bold;
+	line-height: 1.5;
+	border-spacing: 2px;
+    border-color: grey;
+}
+
+.sadrzaj2{
+    font-size: small;
+    color: rgb(153, 153, 153);
+}
+
+td{
+	height:30px;
+	border:none;
+}
+
+#galerija{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align:center;
+	width:800px;
+}
+
+img{
+	padding:0px;
+}
+
+#naslov{
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	color: rgb(97, 97, 97);
+	text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+	padding-top:75px;
+}
+
+.pozadina{
+	background-color:white;;
+}
+
+.linija{
+	width:100%;
+	height:2px;
+	background-color:#FF5722;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.dimenzije{
+	width:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

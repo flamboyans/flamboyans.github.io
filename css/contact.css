@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+body {
+  background: #c4e0e5;
+}
+.pozadina{
+	background-image: url("../slike/contact.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	margin:0;
+	width:100%;
+	height:800px;;
+	
+
+}
+
+.okvir-forme {
+	margin: 0px auto 0;
+	width: 100%;
+	max-width: 680px;
+	padding: 20px;
+	padding-top:60px;
+	box-sizing: border-box;
+}
+
+.sadrzaj-forme {
+	text-align: center;
+}
+
+.sadrzaj-forme h1 {
+	letter-spacing: 1px;
+
+}
+
+.forma {
+	width: 100%;
+	margin: 25px 0;
+}
+
+.top-forma,
+.middle-forma,
+.bottom-forma {
+	width: 100%;
+	min-height: 65px;
+	margin: 10px 0;
+}
+
+.forma input[type="text"],
+.forma textarea {
+	border: 2px solid #fff;
+	padding: 10px 5px;
+	outline: none;
+	border-radius: 2px;
+	width: 100%;
+	transition: all 0.2s ease;
+}
+
+.forma input:focus,
+.forma textarea:focus {
+	border-color: #4ca1af;
+	outline: none;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.0125),
+    0 0 8px rgba(76, 161, 175, 0.5);
+}
+
+.forma .label {
+	margin-bottom: 5px;
+	text-transform: capitalize;
+	font-size:20px;
+	color:white;
+}
+
+.top-forma .inner-forma {
+	width: 29.9%;
+	float: left;
+	margin-right: 5%;
+}
+
+.top-forma .inner-forma:last-child {
+	margin-right: 0;
+}
+
+.middle-forma {
+	clear: both;
+}
+
+.bottom-forma textarea {
+	height: 80px;
+}
+
+.btn {
+	background: #4ca1af;
+	width: 200px;
+	padding: 10px 0;
+	border-radius: 2px;
+	border:none;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	cursor: pointer;
+}
+
+.label{
+	font-size:18px;
+	font-weight:bold;
+}
+
+input[type="text"], textarea {
+
+  background-color : #dddddd; 
+
+}
+
+.error{
+	color:red;
+	font-size:14px;
+}
+
+h2, p{
+	color:#fff;
+}

@@ -1,0 +1,634 @@
+[
+	{
+		"id":"1",
+		"proizvodjac":"Acer",
+		"filteroznaka":"Acer 15hd 7700HQ 32GB2133 1060 1TB",
+		"slika": {
+			"putanja": "slike/helios300.png",
+			"alt": "Acer Predator Helios 300"
+		},
+		"naziv": "Acer Predator Helios 300",
+		"oznaka": "AcerPredatorHelios300",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhzhz",
+		"storage": "1TB HDD",
+		"baterija": 3,
+		"tezina": 2.7
+	},	
+	{
+		"proizvodjac":"Acer",
+		"filteroznaka":"Acer 15hd 7700HQ 64GB2133 1070 250GB",
+		"slika": {
+			"putanja": "slike/predator15.png",
+			"alt": "Acer Predator 15"
+		},
+		"naziv": "Acer Predator 15",
+		"oznaka": "AcerPredator15",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 64GB 2133Mhzhz",
+		"storage": "250GB + 1TB HDD",
+		"baterija": 3,
+		"tezina": 3.7
+	},	
+	{		"proizvodjac":"Acer",
+		"filteroznaka":"Acer 17hd 7700HQ 64GB2133 1070 250GB",
+		"slika": {
+			"putanja": "slike/predator17.png",
+			"alt": "Acer Predator 17"
+		},
+		"naziv": "Acer Predator 17",
+		"oznaka": "AcerPredator17",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 64GB 2133Mhzhz",
+		"storage": "250GB + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.2
+	},	
+	{
+		"proizvodjac":"Acer",
+		"filteroznaka":"Acer 17-4k 7820HK 64GB2133 1080 250GB",
+		"slika": {
+			"putanja": "slike/predator17x.png",
+			"alt": "Acer Predator 17X"
+		},
+		"naziv": "Acer Predator 17X",
+		"oznaka": "AcerPredator17X",
+		"ekran": "17.3” 4K QHD G-Sync",
+		"ekranfilter":"17-4k",
+		"cpu": "Intel® i7-7820HK",
+		"gpu": "GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2133Mhzhz",
+		"storage": "250GB + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.5
+	},
+	{
+		"proizvodjac":"Acer",
+		"filteroznaka":"Acer 21-gsync 7820HK 64GB2400 dual1080 500GB",
+		"slika": {
+			"putanja": "slike/predator21x.png",
+			"alt": "Acer Predator 21X"
+		},
+		"naziv": "Acer Predator 21X",
+		"oznaka": "AcerPredator21X",
+		"ekran": "21” WFHD G-Sync",
+		"ekranfilter":"21-gsync",
+		"cpu": "Intel® i7-7820HK",
+		"gpu": "Dual GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "500GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 8.5
+	},
+	{
+		"proizvodjac":"Asus",
+		"filteroznaka":"Asus 15hd 8750H 32GB2133 1050 128GB",
+		"slika": {
+			"putanja": "slike/gl503.png",
+			"alt": "Asus Strix Hero GL503GE"
+		},
+		"naziv": "Asus Strix Hero GL503GE",
+		"oznaka": "AsusStrixHeroGL503GE",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "128Gb SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.6
+	},	
+	{
+		"proizvodjac":"Asus",
+		"filteroznaka":"Asus 15-gsync 8750H 32GB2400 1070 250GB",
+		"slika": {
+			"putanja": "slike/gx501.png",
+			"alt": "Asus Zephyrus M GM501GS"
+		},
+		"naziv": "Asus Zephyrus M GM501GS",
+		"oznaka": "AsusZephyrusMGM501GS",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15g-sync",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.8
+	},	
+	{
+		"proizvodjac":"Asus",
+		"filteroznaka":"Asus 17hd 8750H 32GB2400 1050 128GB",
+		"slika": {
+			"putanja": "slike/gl703ge.png",
+			"alt": "Asus Strix Scar GL703GE"
+		},
+		"naziv": "Asus Strix Scar GL703GE",
+		"oznaka": "AsusStrixScarGL703GE",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "128GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 3
+	},
+	{
+		"proizvodjac":"Asus",
+		"filteroznaka":"Asus 17hd 8750H 32GB2400 1060 250GB",
+		"slika": {
+			"putanja": "slike/gl703ge.png",
+			"alt": "Asus Strix Scar GL703GM"
+		},
+		"naziv": "Asus Strix Scar GL703GM",
+		"oznaka": "AsusStrixScarGL703GM",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250 SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.9
+	},	
+	{
+		"proizvodjac":"Asus",
+		"filteroznaka":"Asus 17-gsync 8950HK 64GB2400 1080 250GB",
+		"slika": {
+			"putanja": "slike/g703.png",
+			"alt": "Asus G703GI"
+		},
+		"naziv": "Asus G703GI",
+		"oznaka": "AsusG703GI",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i9-8950HK",
+		"gpu": "GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "250 SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.8
+	},	
+	
+	{
+		"proizvodjac":"GIGABYTE",
+		"filteroznaka":"GIGABYTE 15hd 8750H 32GB2400 1060 500GB",
+		"slika": {
+			"putanja": "slike/15x.png",
+			"alt": "GIGABYTE AERO 15W V8-BK4"
+		},
+		"naziv": "GIGABYTE AERO 15W V8-BK4",
+		"oznaka": "GIGABYTEAERO15WV8-BK4",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® Core™ i7-8750H",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "500GB SSD + 1TB HDD",
+		"baterija": 9,
+		"tezina": 2.4
+	},
+	{
+		"proizvodjac":"GIGABYTE",
+		"filteroznaka":"GIGABYTE 15hd 8750H 32GB2400 1070 500GB",
+		"slika": {
+			"putanja": "slike/15x.png",
+			"alt": "GIGABYTE AERO 15X V8-BK4"
+		},
+		"naziv": "GIGABYTE AERO 15X V8-BK4",
+		"oznaka": "GIGABYTEAERO15XV8-BK4",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® Core™ i7-8750H",
+		"gpu": "GeForce™ GTX 1070 MAX-Q",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "500GB SSD + 1TB HDD",
+		"baterija":9,
+		"tezina": 2.4
+	},	
+	{
+		"proizvodjac":"GIGABYTE",
+		"filteroznaka":"GIGABYTE 15-4k 8750H 32GB2400 1070 500GB",
+		"slika": {
+			"putanja": "slike/15x.png",
+			"alt": "GIGABYTE AERO 15X V8-BK4P"
+		},
+		"naziv": "GIGABYTE AERO 15X V8-BK4P",
+		"oznaka": "GIGABYTEAERO15XV8-BK4P",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15-4k",
+		"cpu": "Intel® Core™ i7-8750H",
+		"gpu": "GeForce™ GTX 1070 MAX-Q",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "500GB SSD + 1TB HDD",
+		"baterija":9,
+		"tezina": 2.4
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 15hd 8750H 32GB2400 1050 128GB",
+		"slika": {
+			"putanja": "slike/gp63.png",
+			"alt": "MSI GP63 LEOPARD-041"
+		},
+		"naziv": "MSI GP63 LEOPARD-041",
+		"oznaka": "MSIGP63LEOPARD-041",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "128GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 2.2
+	},
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 15hd 7700HQ 32GB2133 1060 1TB",
+		"slika": {
+			"putanja": "slike/ge63.png",
+			"alt": "MSI GE63VR RAIDER-632"
+		},
+		"naziv": "MSI GE63VR RAIDER-632",
+		"oznaka": "MSIGE63VRRAIDER-632",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "1TB HDD",
+		"baterija": 2,
+		"tezina": 2.3
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 15hd 7700HQ 32GB2133 1060 128GB",
+		"slika": {
+			"putanja": "slike/gs65.png",
+			"alt": "MSI GS65 Stealth THIN-500"
+		},
+		"naziv": "MSI GS65 Stealth THIN-500",
+		"oznaka": "MSIGS65StealthTHIN-500",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "128GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 1.9
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 15-gsync 8750H 64GB2400 1080 250GB",
+		"slika": {
+			"putanja": "slike/gt63.png",
+			"alt": "MSI GT63 TITAN-046"
+		},
+		"naziv": "MSI GT63 TITAN-046",
+		"oznaka": "MSIGT63TITAN-046",
+		"ekran": "15.6” Full HD G-Sync",
+		"ekranfilter":"15-gsync",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 3.1
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 8750H 32GB2133 1050 128GB",
+		"slika": {
+			"putanja": "slike/gl73.png",
+			"alt": "MSI GL73 8RD-031"
+		},
+		"naziv": "MSI GL73 8RD-031",
+		"oznaka": "MSIGL738RD-031",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "128GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.7
+	},
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 7700HQ 32GB2133 1060 1TB",
+		"slika": {
+			"putanja": "slike/ge73.png",
+			"alt": "MSI GE73VR Raider-732"
+		},
+		"naziv": "MSI GE73VR Raider-732",
+		"oznaka": "MSIGE73VRRaider-732",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "1TB HDD",
+		"baterija": 3,
+		"tezina": 2.8
+	},
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 8750H 32GB2133 1060 250GB",
+		"slika": {
+			"putanja": "slike/gp73.png",
+			"alt": "MSI GP73 Leopard-014"
+		},
+		"naziv": "MSI GP73 Leopard-014",
+		"oznaka": "MSIGP73Leopard-014",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.7
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 7700HQ 32GB2400 1060 250GB",
+		"slika": {
+			"putanja": "slike/gs73.png",
+			"alt": "MSI GS73VR Stealth Pro"
+		},
+		"naziv": "MSI GS73VR Stealth Pro",
+		"oznaka": "MSIGS73VRStealthPro",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 2.4
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 7700HQ 32GB2133 1070 1TB",
+		"slika": {
+			"putanja": "slike/ge73.png",
+			"alt": "MSI GE73VR Raider-745"
+		},
+		"naziv": "MSI GE73VR Raider-745",
+		"oznaka": "MSIGE73VRRaider-745",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "1TB HDD",
+		"baterija": 2,
+		"tezina": 2.8
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17-4k 7820HK 64GB2133 1070 1TB",
+		"slika": {
+			"putanja": "slike/gt73.png",
+			"alt": "MSI GT73VR Titan-427"
+		},
+		"naziv": "MSI GT73VR Titan-427",
+		"oznaka": "MSIGT73VRTitan-427",
+		"ekran": "17.3” 4K QHD G-Sync",
+		"ekranfilter":"17-4k",
+		"cpu": "Intel® i7-7820HK",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 64GB 2133Mhz",
+		"storage": "1TB HDD",
+		"baterija": 2,
+		"tezina": 3.9
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17hd 8750H 32GB2400 1070 250GB",
+		"slika": {
+			"putanja": "slike/gs73.png",
+			"alt": "MSI GS73 STEALTH-016"
+		},
+		"naziv": "MSI GS73 STEALTH-016",
+		"oznaka": "MSIGS73STEALTH-016",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 2.5
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17-gsync 8850H 64GB2400 1070 250GB",
+		"slika": {
+			"putanja": "slike/gt75.png",
+			"alt": "MSI GT75 TITAN-057"
+		},
+		"naziv": "MSI GT75 TITAN-057",
+		"oznaka": "MSIGT75TITAN-057",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i7-8850H",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.5
+	},	
+	{
+		"proizvodjac":"MSI",
+		"filteroznaka":"MSI 17-gsync 8950H 64GB2400 1080 250GB",
+		"slika": {
+			"putanja": "slike/gt75.png",
+			"alt": "MSI GT75 TITAN-094"
+		},
+		"naziv": "MSI GT75 TITAN-094",
+		"oznaka": "MSIGT75TITAN-094",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i7-8950H",
+		"gpu": "GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.5
+	},	
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 15hd 8750H 32GB2133 1050 1TB",
+		"slika": {
+			"putanja": "slike/6853.png",
+			"alt": "Sager NP6853"
+		},
+		"naziv": "SAGER NP6853",
+		"oznaka": "NP6853",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "1TB HDD",
+		"baterija": 3,
+		"tezina": 2.5
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 15hd 8750H 32GB2133 1060 250GB",
+		"slika": {
+			"putanja": "slike/7851.png",
+			"alt": "Sager NP7851"
+		},
+		"naziv": "SAGER NP7851",
+		"oznaka": "NP7851",
+		"ekran": "15.6” Full HD",
+		"ekranfilter":"15hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.5
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 15-gsync 8700K 32GB2400 1070 250GB",
+		"slika": {
+			"putanja": "slike/9155.png",
+			"alt": "Sager NP9155"
+		},
+		"naziv": "SAGER NP9155",
+		"oznaka": "NP9155",
+		"ekran": "15.6” Full HD G-Sync",
+		"ekranfilter":"15-gsync",
+		"cpu": "Intel® i7-8700K",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 3.4
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17hd 8750H 32GB2133 1050 250GB",
+		"slika": {
+			"putanja": "slike/6873.png",
+			"alt": "Sager NP6873"
+		},
+		"naziv": "SAGER NP6873",
+		"oznaka": "NP6873",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1050Ti",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 2.5
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17-gsync 7700HQ 32GB2400 1060 250GB",
+		"slika": {
+			"putanja": "slike/8370.png",
+			"alt": "Sager NP8370"
+		},
+		"naziv": "SAGER NP8370",
+		"oznaka": "NP8370",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i7-7700HQ",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 3
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17hd 8750H 32GB2133 1060 250GB",
+		"slika": {
+			"putanja": "slike/7871.png",
+			"alt": "Sager NP7871"
+		},
+		"naziv": "SAGER NP7871",
+		"oznaka": "NP7871",
+		"ekran": "17.3” Full HD",
+		"ekranfilter":"17hd",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 32GB 2133Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 3.45
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17-gsync 8750H 64GB2133 1070 250GB",
+		"slika": {
+			"putanja": "slike/8375.png",
+			"alt": "Sager NP8375"
+		},
+		"naziv": "SAGER NP8375",
+		"oznaka": "NP8375",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i7-8750H",
+		"gpu": "GeForce™ GTX 1070",
+		"ram": "Up to 64GB 2133Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 3
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17-gsync 8700K 64GB 2400Mhz 1060 250GB",
+		"slika": {
+			"putanja": "slike/9175.png",
+			"alt": "Sager NP9175"
+		},
+		"naziv": "SAGER NP9175",
+		"oznaka": "NP9175",
+		"ekran": "17.3” Full HD G-Sync",
+		"ekranfilter":"17-gsync",
+		"cpu": "Intel® i7-8700K",
+		"gpu": "GeForce™ GTX 1060",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "250GB SSD + 1TB HDD",
+		"baterija": 2,
+		"tezina": 3.9
+	},
+	{
+		"proizvodjac":"Sager",
+		"filteroznaka":"Sager 17-4k 8700K 64GB 2400Mhz 1080 500GB",
+		"slika": {
+			"putanja": "slike/9877.png",
+			"alt": "Sager NP9877"
+		},
+		"naziv": "SAGER NP9877",
+		"oznaka": "NP9877",
+		"ekran": "17.3” 4K QHD G-Sync",
+		"ekranfilter":"17-4k",
+		"cpu": "Intel® i7-8700K",
+		"gpu": "GeForce™ GTX 1080",
+		"ram": "Up to 64GB 2400Mhz",
+		"storage": "500GB SSD + 1TB HDD",
+		"baterija": 3,
+		"tezina": 4.8
+	}
+	
+]

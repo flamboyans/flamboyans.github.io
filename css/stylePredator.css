@@ -1,0 +1,248 @@
+*{
+	box-sizing: border-box;
+    margin: 0 auto;
+	color:white;
+	border:none;
+	
+}
+.predator{
+	background-color:#333333;
+	position:relative;
+	padding-top:50px;
+}
+.region{
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	position:relative;
+
+}
+#display{
+	width:1100px;
+	height:700px;
+	background-image: url("../slike/21x/curved_display.jpg");
+
+}
+#eyetracking{
+	width:1100px;
+	height:450px;
+	background-image: url("../slike/21x/eye_tracking.jpg");
+
+}
+
+#mx{
+	width:1100px;
+	height:700px;
+	background-image: url("../slike/21x/cherry_mx.jpg");
+
+}
+#flipflop{
+	width:1100px;
+	height:366px;
+
+
+}
+#diamond{
+	width:1100px;
+	height:366px;
+
+}
+#dualgtx{
+	background-image: url("../slike/21x/1080_sli.jpg");
+	width:1100px;
+	height:700px;
+	
+}
+
+
+#oc{
+	background-image: url("../slike/21x/oc_cpu.jpg");
+	width:1100px;
+	height:366px;
+
+}
+
+#fan{
+	background-image: url("../slike/21x/5x_fan.jpg");
+	width:1100px;
+	height:700px;
+	
+}
+#aeroblade{
+	background-image: url("../slike/21x/air_flow.jpg");
+	width:1100px;
+	height:700px;
+	
+}
+#sound{
+	background-image: url("../slike/21x/surround.jpg");
+	width:1100px;
+	height:700px;
+	
+}
+
+#dolby{
+	background-image: url("../slike/21x/dolby.jpg");
+	width:1100px;
+	height:366px;
+
+}
+#sense{
+	background-image: url("../slike/21x/sense.jpg");
+	width:1100px;
+	height:700px;
+}
+#coolboost{
+	background-image: url("../slike/21x/coolboost.jpg");
+	width:1100px;
+	height:366px;
+}
+#case{
+	background-image: url("../slike/21x/case1.jpg");
+	width:1100px;
+	height:700px;
+	
+}
+#clean{
+	background-image: url("../slike/21x/clean.jpg");
+	width:1100px;
+	height:366px;
+
+}
+
+.region-tekst-desno{
+	
+	width:366px;
+	text-align:justify;
+	float:right;
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	padding:20px;
+	background-color:#1E1E1E;
+	position:absolute;
+	font-size:14px;
+	opacity:0.8;
+}
+
+.region-tekst-levo{
+	
+	width:366px;
+	text-align:justify;
+	float:left;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	padding:20px;
+	background-color:#1E1E1E;
+	position:absolute;
+	font-size:14px;
+	opacity:0.8;
+}
+#cherry{
+	position:absolute;
+	right:0px;
+	bottom:0px;
+
+}
+p{
+	padding-bottom:10px;
+}
+p, h2 {
+	font-family: 'Play', sans-serif;
+}
+h2{
+	font-size:20px;
+	padding-bottom:5px;
+	text-align:center;
+}
+
+.drugi-tekst{
+	float:left;
+}
+
+
+.flip-over{
+	width:366px;
+	float:left;
+	background-color:#1E1E1E;
+
+}
+.sredina{
+	width:368px;
+	height:366px;
+	padding:10% 1.5%;
+	text-align:justify;
+}
+
+.ivica{
+	height:366px;
+	text-align:justify;
+	padding:10% 1.5%;
+	width:367px;
+
+}
+.tekst-sredina{
+	position:absolute;
+	right:366px;
+	bottom:0px;
+	width:368px;
+	height:366px;
+	padding:10% 1.5%;
+	text-align:justify;
+}
+.tekst-levo{
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	width:366px;
+	height:366px;
+	padding:10% 1.5%;
+	text-align:justify;
+}
+.tekst-desno{
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	height:366px;
+	width:366px;
+	padding:10% 1.5%;
+	text-align:justify;
+}
+.slika-desno{
+	position:absolute;
+	right:0px;
+	bottom:0px;
+}
+.poslednji{
+	padding:5% 1.5%;
+	background-color:black;
+}
+#predator-navigacija{
+	width:100%;
+	background-color:#0ba39c;
+	position:sticky;
+	bottom:0;
+	display:none;
+	text-align:center;
+
+}
+.toThe{
+	color:black;
+	display:inline-table;
+	padding:5px;
+	font-size:12px;
+	color:white;
+}
+.toThe:hover{
+	background-color:#FF5722;
+	cursor:pointer;
+	color:black;
+}
+
+.sirina326{
+	width:326px;
+}
+
+.sirina366{
+	width:366px;
+}
