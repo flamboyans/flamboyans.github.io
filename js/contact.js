@@ -34,14 +34,14 @@
 			document.getElementById("labelName").style.color="red";
 			document.getElementById("errorName").style.display="block";
 			nizGreske.push("Please enter Your name");
-			console.log(nizGreske);
+			//console.log(nizGreske);
 		}
 		else
 		{
 			document.getElementById("labelName").style.color="#fff";
 			document.getElementById("errorName").style.display="none";
 			nizPodaci.push("Name: "+name);
-			console.log(nizPodaci);
+			//console.log(nizPodaci);
 		}
 		
 		//provera da li je unesen email u dobrom formatu
@@ -50,14 +50,14 @@
 			document.getElementById("labelEmail").style.color="red";
 			document.getElementById("errorEmail").style.display="block";
 			nizGreske.push("Please enter Your email");
-			console.log(nizGreske);
+			//console.log(nizGreske);
 		}
 		else
 		{
 			document.getElementById("labelEmail").style.color="#fff";
 			document.getElementById("errorEmail").style.display="none";
 			nizPodaci.push("Email: "+email);
-			console.log(nizPodaci);
+			//console.log(nizPodaci);
 		}
 		
 
@@ -67,14 +67,14 @@
 			document.getElementById("labelPhone").style.color="red";
 			document.getElementById("errorPhone").style.display="block";
 			nizGreske.push("Please enter Your phone");
-			console.log(nizGreske);
+			//console.log(nizGreske);
 		}
 		else
 		{
 			document.getElementById("labelPhone").style.color="#fff";
 			document.getElementById("errorPhone").style.display="none";
 			nizPodaci.push("Phone: "+phone);
-			console.log(nizPodaci);
+			//console.log(nizPodaci);
 		}
 
 		//provera da li je unesen subject u dobrom formatu
@@ -83,14 +83,14 @@
 			document.getElementById("labelSubject").style.color="red";
 			document.getElementById("errorSubject").style.display="block";
 			nizGreske.push("Please enter Subject");
-			console.log(nizGreske);
+			//console.log(nizGreske);
 		}
 		else
 		{
 			document.getElementById("labelSubject").style.color="#fff";
 			document.getElementById("errorSubject").style.display="none";
 			nizPodaci.push("Subject: "+subject);
-			console.log(nizPodaci);
+			//console.log(nizPodaci);
 		}
 
 		//provera da li je unesen message u dobrom formatu
@@ -99,14 +99,14 @@
 			document.getElementById("labelMessage").style.color="red";
 			document.getElementById("errorMessage").style.display="block";
 			nizGreske.push("Please enter Your message");
-			console.log(nizGreske);
+			//console.log(nizGreske);
 		}
 		else
 		{
 			document.getElementById("labelMessage").style.color="#fff";
 			document.getElementById("errorMessage").style.display="none";
 			nizPodaci.push("Message: "+message);
-			console.log(nizPodaci);
+			//console.log(nizPodaci);
 		}
 		
 		//provera da li su sva polja popunjena u odgovarajucem formatu
@@ -130,9 +130,9 @@ $(document).ready(function(){
 	//upisivanje u local storage da kad se otvori nova strana povuce ono sto smo izabrali
 	$(".kaProizvodima").on( 'click', function(){
 		var asd=$(this).attr("title");
-		console.log(asd);
+		//console.log(asd);
 		localStorage.setItem("saPocetne",asd);
-		console.log(localStorage.getItem("saPocetne"));
+		//console.log(localStorage.getItem("saPocetne"));
 	});
 	
 	//Dropdown meni

@@ -45,9 +45,9 @@ $("#scrollToTop").click(function() {
 //upisivanje u local storage da kad se otvori nova strana povuce ono sto smo izabrali
 	$(".kaProizvodima").on( 'click', function(){
 		var asd=$(this).attr("title");
-		console.log(asd);
+		//console.log(asd);
 		localStorage.setItem("saPocetne",asd);
-		console.log(localStorage.getItem("saPocetne"));
+		//console.log(localStorage.getItem("saPocetne"));
 	});		
 
 	var x=localStorage.getItem("oznaka"); 
@@ -67,7 +67,7 @@ $("#scrollToTop").click(function() {
 				});
 			},
 			error:function(xhr,status,error){
-				console.log(error)
+				//console.log(error)
 			}
 		});
 	
@@ -88,7 +88,7 @@ $("#scrollToTop").click(function() {
 				});
 			},
 			error:function(xhr,status,error){
-				console.log(error)
+				//console.log(error)
 			}				
 		});
 	
@@ -144,7 +144,7 @@ $("#scrollToTop").click(function() {
 			});
 		},
 		error:function(xhr,status,error){
-			console.log(error)
+			//console.log(error)
 		}				
 		
 		});
