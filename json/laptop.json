@@ -13,7 +13,7 @@
 		"ekranfilter":"15hd",
 		"cpu": "Intel® i7-7700HQ",
 		"gpu": "GeForce™ GTX 1060",
-		"ram": "Up to 32GB 2133Mhzhz",
+		"ram": "Up to 32GB 2133Mhz",
 		"storage": "1TB HDD",
 		"baterija": 3,
 		"tezina": 2.7
@@ -31,7 +31,7 @@
 		"ekranfilter":"15hd",
 		"cpu": "Intel® i7-7700HQ",
 		"gpu": "GeForce™ GTX 1070",
-		"ram": "Up to 64GB 2133Mhzhz",
+		"ram": "Up to 64GB 2133Mhz",
 		"storage": "250GB + 1TB HDD",
 		"baterija": 3,
 		"tezina": 3.7
@@ -48,7 +48,7 @@
 		"ekranfilter":"17hd",
 		"cpu": "Intel® i7-7700HQ",
 		"gpu": "GeForce™ GTX 1070",
-		"ram": "Up to 64GB 2133Mhzhz",
+		"ram": "Up to 64GB 2133Mhz",
 		"storage": "250GB + 1TB HDD",
 		"baterija": 3,
 		"tezina": 4.2
@@ -66,7 +66,7 @@
 		"ekranfilter":"17-4k",
 		"cpu": "Intel® i7-7820HK",
 		"gpu": "GeForce™ GTX 1080",
-		"ram": "Up to 64GB 2133Mhzhz",
+		"ram": "Up to 64GB 2133Mhz",
 		"storage": "250GB + 1TB HDD",
 		"baterija": 3,
 		"tezina": 4.5
